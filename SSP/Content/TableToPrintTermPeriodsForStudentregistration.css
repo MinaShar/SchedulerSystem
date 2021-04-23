@@ -1,0 +1,36 @@
+﻿.AllCousresOfTerm{
+    border:groove;
+    display:block;
+    width:84%;
+    height:300px;
+    background-color:beige;
+    overflow:scroll;
+    overflow-x:auto;
+    overflow-y:scroll;
+}
+
+.AllGroupsOfCourse{
+    border:groove;
+    display:block;
+    width:84%;
+    height:300px;
+    background-color:beige;
+    overflow:hidden;
+}
+
+
+table.CoursesOfTerm {
+    background-color:darkgray;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+table.CoursesOfTerm th,table.CoursesOfTerm td {
+    border: none;
+    text-align: left;
+    padding: 8px;
+}
+
+table.CoursesOfTerm tr:nth-child(even){background-color: #f2f2f2}

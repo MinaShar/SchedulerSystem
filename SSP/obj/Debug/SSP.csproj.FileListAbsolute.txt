@@ -1,0 +1,172 @@
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\ApplicationInsights.config
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\csc.exe
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\vbc.exe
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\VBCSCompiler.exe
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\SSP.dll.config
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\SSP.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\SSP.pdb
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Antlr3.Runtime.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\EntityFramework.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\EntityFramework.SqlServer.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.Web.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.WindowsServer.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.ApplicationInsights.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Newtonsoft.Json.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Owin.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\System.Web.Optimization.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\System.Web.Providers.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\WebGrease.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.Web.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.ApplicationInsights.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\System.Web.Optimization.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Antlr3.Runtime.pdb
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Newtonsoft.Json.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\EntityFramework.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\EntityFramework.SqlServer.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\System.Web.Providers.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\obj\Debug\SSP.csprojResolveAssemblyReference.cache
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\obj\Debug\SSP.dll
+c:\users\m\documents\visual studio 2015\Projects\SSP\SSP\obj\Debug\SSP.pdb
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Models.dll
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Models.pdb
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\m\documents\visual studio 2015\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\SSP\SSP\bin\ApplicationInsights.config
+D:\Projects\SSP\SSP\bin\roslyn\csc.exe
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\SSP\SSP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\SSP\SSP\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\SSP\SSP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\SSP\SSP\bin\roslyn\vbc.exe
+D:\Projects\SSP\SSP\bin\roslyn\VBCSCompiler.exe
+D:\Projects\SSP\SSP\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\SSP\SSP\bin\SSP.dll.config
+D:\Projects\SSP\SSP\bin\SSP.dll
+D:\Projects\SSP\SSP\bin\SSP.pdb
+D:\Projects\SSP\SSP\bin\Antlr3.Runtime.dll
+D:\Projects\SSP\SSP\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Projects\SSP\SSP\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\SSP\SSP\bin\EntityFramework.dll
+D:\Projects\SSP\SSP\bin\EntityFramework.SqlServer.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.Web.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\SSP\SSP\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projects\SSP\SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\SSP\SSP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Projects\SSP\SSP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projects\SSP\SSP\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\SSP\SSP\bin\Models.dll
+D:\Projects\SSP\SSP\bin\Newtonsoft.Json.dll
+D:\Projects\SSP\SSP\bin\Owin.dll
+D:\Projects\SSP\SSP\bin\System.Web.Optimization.dll
+D:\Projects\SSP\SSP\bin\System.Web.Providers.dll
+D:\Projects\SSP\SSP\bin\WebGrease.dll
+D:\Projects\SSP\SSP\bin\Models.pdb
+D:\Projects\SSP\SSP\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AI.Web.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\SSP\SSP\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\SSP\SSP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\SSP\SSP\bin\Newtonsoft.Json.xml
+D:\Projects\SSP\SSP\bin\System.Web.Optimization.xml
+D:\Projects\SSP\SSP\bin\Antlr3.Runtime.pdb
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projects\SSP\SSP\bin\EntityFramework.xml
+D:\Projects\SSP\SSP\bin\EntityFramework.SqlServer.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\SSP\SSP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\SSP\SSP\bin\System.Web.Providers.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\SSP\SSP\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\SSP\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+D:\Projects\SSP\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+D:\Projects\SSP\SSP\obj\Debug\SSP.csproj.CopyComplete
+D:\Projects\SSP\SSP\obj\Debug\SSP.dll
+D:\Projects\SSP\SSP\obj\Debug\SSP.pdb

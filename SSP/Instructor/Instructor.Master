@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Instructor.master.cs" Inherits="SSP.Instructor.Instructor" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome Instructor</title>
+    <script src="../Scripts/jquery-1.10.2.js"></script>
+    <script src="../Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="../Scripts/jquery-ui.js"></script>
+    <script src="../Scripts/listCollapse.js"></script>
+    <script src="../Scripts/CollabseMenuHandler.js"></script>
+    <link href="../Content/simple-sidebar.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="padding-top: 50px;">
+
+    <div id="toggled">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav" id="SideBarNav" style="padding-top: 30px;">
+
+                <li>
+                    <form>
+                        <div style="font-weight: bolder; color: #999999;">
+                            <div>Welcome DR.</div>
+                            <label style="padding-left: 20px;" runat="server" id="CurrentInstructorName"></label>
+                        </div>
+                    </form>
+                </li>
+
+                <li>Courses You Teach
+    <ul>
+        <asp:Repeater runat="server" ID="CoursesThatDoctorTeaches">
+            <ItemTemplate>
+                <li><a href="CousreAndContent.aspx?CourseID=<%# Eval("Id") %>&GroupNumber=<%# Eval("GroupNumber") %>"><%# Eval("CourseName") %> G.<%# Eval("GroupNumber") %></a></li>
+            </ItemTemplate>
+        </asp:Repeater>
+    </ul>
+                </li>
+
+                <li>
+                    <a href="TimeTable.aspx">Time Table</a>
+                </li>
+
+                <li>
+                    <a href="PreviousCourses.aspx">Previous courses</a>
+                </li>
+
+                <li>
+                    <a href="../Account/Login.aspx">Log out</a>
+                </li>
+                <%--<li>
+                    <a href="javascript:GetUserInput2()">Scedule Courses</a>
+                </li>--%>
+
+                <%--<li>
+                    <a href="#">Events</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>--%>
+            </ul>
+        </div>
+
+    </div>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

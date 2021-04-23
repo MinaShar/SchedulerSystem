@@ -1,0 +1,17 @@
+﻿.ViewPeriodInfo{
+    background-color:antiquewhite;
+    left:650px;
+    position:fixed;
+    z-index:1000;
+    top:150px;
+    visibility:hidden;
+    width:30%;
+    height:50%;
+    overflow:auto;
+    padding:35px;
+    border:groove;
+}
+
+.ViewPeriodInfo.Show{
+    visibility:visible;
+}

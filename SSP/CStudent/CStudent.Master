@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CStudent.master.cs" Inherits="SSP.CStudent.CStudent" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome Student</title>
+    <script src="../Scripts/jquery-1.10.2.js"></script>
+    <script src="../Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="../Scripts/jquery-ui.js"></script>
+    <script src="../Scripts/listCollapse.js"></script>
+    <script src="../Scripts/CollabseMenuHandler.js"></script>
+    <link href="../Content/simple-sidebar.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="padding-top: 50px;">
+
+    <div id="toggled">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav" id="SideBarNav" style="padding-top: 30px;">
+
+                <li>
+                    <form>
+                        <div style="font-weight: bolder; color: #999999;">
+                            <div>Welcome Student</div>
+                        </div>
+                    </form>
+                </li>
+
+                <li>
+                    <a href="Register.aspx?ID=<%=CurrentStudentID %>">Register</a>
+                </li>
+
+                <li>
+                    <a href="TimeTable.aspx?ID=<%=CurrentStudentID %>">Time table</a>
+                </li>
+
+                <li>View
+    <ul>
+        <li><a href="CurrentSemesterGrade.aspx?ID=<%=CurrentStudentID %>">Current semester grades</a></li>
+        <li><a href="AllStudentGrades.aspx?ID=<%=CurrentStudentID %>">All grades</a></li>
+    </ul>
+                </li>
+
+                <%--<li>
+                    <a href="javascript:GetUserInput()">Choose Courses of semester</a>
+                </li>
+                <li>
+                    <a href="javascript:GetUserInput2()">Scedule Courses</a>
+                </li>--%>
+
+                <%--<li>
+                    <a href="#">Events</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>--%>
+            </ul>
+        </div>
+
+    </div>
+
+    <div style="margin-left: 300px;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP", "SSP\SSP.csproj", "{FAC4493B-85F3-4C09-B845-ACCB2F38F5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{FE9AA47D-D87F-403E-B971-CA38DE1E26E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC4493B-85F3-4C09-B845-ACCB2F38F5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC4493B-85F3-4C09-B845-ACCB2F38F5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC4493B-85F3-4C09-B845-ACCB2F38F5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC4493B-85F3-4C09-B845-ACCB2F38F5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9AA47D-D87F-403E-B971-CA38DE1E26E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9AA47D-D87F-403E-B971-CA38DE1E26E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9AA47D-D87F-403E-B971-CA38DE1E26E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9AA47D-D87F-403E-B971-CA38DE1E26E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

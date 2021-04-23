@@ -1,0 +1,10 @@
+C:\Users\m\documents\visual studio 2015\Projects\SSP\Models\bin\Debug\Models.dll
+C:\Users\m\documents\visual studio 2015\Projects\SSP\Models\bin\Debug\Models.pdb
+C:\Users\m\documents\visual studio 2015\Projects\SSP\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\m\documents\visual studio 2015\Projects\SSP\Models\obj\Debug\Models.dll
+C:\Users\m\documents\visual studio 2015\Projects\SSP\Models\obj\Debug\Models.pdb
+D:\Projects\SSP\Models\bin\Debug\Models.dll
+D:\Projects\SSP\Models\bin\Debug\Models.pdb
+D:\Projects\SSP\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Projects\SSP\Models\obj\Debug\Models.dll
+D:\Projects\SSP\Models\obj\Debug\Models.pdb

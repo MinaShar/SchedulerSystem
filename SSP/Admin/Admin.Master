@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="SSP.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome Admin</title>
+    <%--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/json2/20130526/json2.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>--%>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-1.10.2.js"></script>
+    <script src="../Scripts/jquery-1.10.2.intellisense.js"></script>
+    <script src="../Scripts/jquery-ui.js"></script>
+    <link href="../Content/AdminCss.css" rel="stylesheet" />
+    <script src="../Scripts/HaveUserInputToDirectToCoursesOfSemester.js"></script>
+    <script src="../Scripts/listCollapse.js"></script>
+    <script src="../Scripts/CollabseMenuHandler.js"></script>
+    <link href="../Content/simple-sidebar.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="padding-top: 50px;">
+
+
+    <div id="toggled">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav" id="SideBarNav" style="padding-top: 30px;">
+
+                <li>
+                    <form>
+                        <div style="font-weight: bolder; color: #999999;">
+                            <div>Welcome DR.</div>
+                            <label style="padding-left: 20px;" runat="server" id="CurrentAdminName"></label>
+                        </div>
+                    </form>
+                </li>
+
+                <li>ADD
+    <ul>
+        <li><a href="AddNewUser.aspx">New User</a></li>
+        <li><a href="AddNewSemester.aspx">Semester</a></li>
+    </ul>
+                </li>
+
+                <li>
+                    <a href="CurrentSemesterInfo.aspx">Current Semester Info</a>
+                </li>
+
+                <li>
+                    <a href="javascript:GetUserInput()">Choose Courses of semester</a>
+                </li>
+                <li>
+                    <a href="javascript:GetUserInput2()">Scedule Courses</a>
+                </li>
+
+                <li>
+                    <a href="../Account/Login.aspx">Log Out</a>
+                </li>
+
+                <%--<li>
+                    <a href="#">Events</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>--%>
+            </ul>
+        </div>
+
+    </div>
+
+
+
+    <div class="container">
+
+        <div class="WhichCourse">
+            <h3>Select program.</h3>
+            <form action="CoursesOfSememester.aspx" style="margin-left: 182px;">
+                <div id="ProgramsListContainer"></div>
+                <div style="text-align: center;">
+                    <input type="submit" id="Advance" value="OK" />
+                </div>
+            </form>
+        </div>
+
+        <div class="WhichCourse2">
+            <h3>Select program.</h3>
+            <form action="ModifiedScheduleCourse.aspx" style="margin-left: 182px;">
+                <div id="ProgramsListContainer2"></div>
+                <div style="text-align: center;">
+                    <input type="submit" id="Advance2" value="OK" />
+                </div>
+            </form>
+        </div>
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>
